@@ -13,7 +13,8 @@
             height: 100vh;
         }
         iframe {
-            width: 100%;
+            border: 2px solid;
+            border-radius: 1rem;
         }
     </style>
 </head>

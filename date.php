@@ -1,6 +1,14 @@
 <style>
     body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        height: 100vh;
         text-align: center;
+    }
+    h1 {
+        margin: 0;
     }
 </style>
 <?php
